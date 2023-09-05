@@ -14,3 +14,5 @@ ACS-1700-Web-Foundations Portfolio Website
   enjoyed. I didn't invent them, but I've crafted and shared them with
   love. I hope you'll enjoy the flavors of my life.
 </p>
+
+<h3>This site is live! You can view it in your browser on <a href="https://mikeygough.github.io/flavors-of-life/">Github Pages!</a></h3>
