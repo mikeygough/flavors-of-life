@@ -1,8 +1,35 @@
 body {
-  font-family: 'Helvetica';
+  font-family: "Helvetica";
   color: #333;
   background-color: #eee;
   font-size: 20px;
   line-height: 1.75;
   font-weight: 100;
+}
+
+article {
+  max-width: 800px;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+ul {
+  list-style: circle;
+}
+
+li {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+ul, ol {
+  padding: 1rem;
 }
