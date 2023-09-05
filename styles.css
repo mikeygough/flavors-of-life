@@ -7,6 +7,8 @@ body {
   font-weight: 100;
 }
 
+/* style text */
+
 h1 {
   text-align: center;
   text-transform: uppercase;
@@ -20,7 +22,15 @@ h3 {
   margin-top: 4rem;
   background-color: #ccc;
   color: #111;
+  border: 2px solid teal;
 }
+
+a {
+  color: tomato;
+  text-decoration: none;
+}
+
+/* style figure */
 
 .figures-div {
   display: flex;
@@ -30,6 +40,8 @@ h3 {
 figcaption {
   font-size: 0.75rem;
 }
+
+/* style lists */
 
 ul {
   list-style: circle;
@@ -44,6 +56,8 @@ ul,
 ol {
   padding-left: 2rem;
 }
+
+/* style navigation */
 
 .navigation {
   list-style: none;
@@ -64,10 +78,7 @@ ol {
   font-weight: 600;
 }
 
-a {
-  color: tomato;
-  text-decoration: none;
-}
+/* style footer */
 
 footer {
   font-size: 1rem;
