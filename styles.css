@@ -84,11 +84,22 @@ ol {
 
 /* style footer */
 
-footer {
-  font-size: 1rem;
+.adapted-from {
+  font-size: .8rem;
+  display: flex;
+  justify-content: flex-start;
 }
 
 footer.main-footer {
+  display: flex;
+  justify-content: center;
   text-align: center;
   text-transform: uppercase;
+}
+
+/* style grid */
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-gap: 1rem;
 }
