@@ -49,3 +49,12 @@
   background: red;
   color: white;
 }
+
+.card_button a {
+  text-decoration: none;
+  color: black;
+}
+
+.card_button:hover a {
+  color: white;
+}
