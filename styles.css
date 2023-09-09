@@ -96,10 +96,3 @@ footer.main-footer {
   text-align: center;
   text-transform: uppercase;
 }
-
-/* style grid */
-.container {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-  grid-gap: 1rem;
-}
