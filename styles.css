@@ -9,6 +9,7 @@ body {
   font-weight: 100;
 }
 
+
 /* style text */
 
 h1 {
@@ -20,10 +21,6 @@ h1 {
 }
 
 h2 {
-  text-decoration: none;
-}
-
-h3 {
   margin-top: 4rem;
   background-color: #ccc;
   color: #111;
@@ -35,6 +32,7 @@ a {
   color: tomato;
   text-decoration: none;
 }
+
 
 /* style container & cards */
 
@@ -130,6 +128,7 @@ ul,
 ol {
   padding-left: 2rem;
 }
+
 
 /* style footer */
 
