@@ -53,7 +53,6 @@ a {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  cursor: pointer;
   transition: transform 200ms ease-in;
 }
 
@@ -85,16 +84,20 @@ a {
   transition:
     background 200ms ease-in,
     color 200ms ease-in;
+  text-decoration: none;
+  display: inline-block;
+  text-align: center;
 }
 
 .card:hover {
-  transform:scale(1.02);
+  transform: scale(1.02);
 }
 
-.card:hover button {
+.card:hover .card_button {
   background: tomato;
   color: white;
 }
+
 
 /* style figure */
 
